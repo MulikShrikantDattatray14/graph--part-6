@@ -1,0 +1,5 @@
+Problem Statement: Given an undirected connected graph with V vertices and adjacency list adj. You are required to find all the vertices removing which (and edges through it) disconnect the graph into 2 or more components.
+
+Note: Indexing is zero-based i.e nodes numbering from (0 to V-1). There might be loops present in the graph.
+
+Pre-requisite: Bridges in Graph problem & DFS algorithm.
